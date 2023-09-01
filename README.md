@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saubhagya Gupta</h1>
-<h3 align="center">A passionate competitive programmer and developer from India</h3>
+<h3 align="center">A passionate developer and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18saubhagya&label=Profile%20views&color=0e75b6&style=flat" alt="18saubhagya" /> </p>
+
+- 🌱 I’m currently learning **DSA and ReactJs**
+
 - 📫 How to reach me **saubhagya18gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -10,7 +13,6 @@
 <a href="https://fb.com/saubhagya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saubhagya gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lucks100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lucks100" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saubhagya18gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saubhagya18gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/100Lucks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="100Lucks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
